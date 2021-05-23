@@ -29,7 +29,7 @@ describe('Basic user flow for SPA ', () => {
 
   it('Test3: Clicking first <journal-entry>, new URL should contain /#entry1', async () => {
     // implement test3: Clicking on the first journal entry should update the URL to contain “/#entry1”
-
+    
   });
 
   it('Test4: On first Entry page - checking page header title', async () => {
