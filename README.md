@@ -1,5 +1,7 @@
 # Lab8_Starter
 
+Name: Zakaria Alhomsy
+
 ## Check your understanding q's (FILL OUT)
 1. In your own words: Where would you fit your automated tests in your Bujo project development pipeline? (just write the letter)
 
@@ -15,7 +17,7 @@ yes, as this is a small feature that can be easily tested with a unit test.
 
 4. What do you expect to happen if we run our puppeteer tests with the field “headless” set to true?
 
-it will run it with a browser UI
+it will run tests without the browser UI
 
 5. What would your beforeAll callback look like if you wanted to start from the settings page before every test case?
 
